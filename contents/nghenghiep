@@ -1,0 +1,24 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+     <link rel="stylesheet" href="../style.css">
+   <style>
+      h1 {color: blue; text-align: center; }
+   </style>
+  </head>
+  <body>
+   <h1> GIỚI THIỆU NGHỀ NGHIỆP TƯƠNG LAI </h1>
+      <tr>
+      <ol type = "A">
+      <li class="tieude">Nghề nghiệp dự định trong tương lai</li>
+          Trong tương lai, tôi dự định trở thành bác sĩ.
+      <li class="tieude">Bác sĩ là gì?</li>
+           Nghề bác sĩ là nghề chăm sóc, bảo vệ và nâng cao sức khỏe cho con người. Bác sĩ có nhiệm vụ khám bệnh, chẩn đoán, điều trị và tư vấn cách phòng ngừa bệnh tật cho bệnh nhân. Ngoài kiến thức chuyên môn, bác sĩ còn cần có y đức, tinh thần trách nhiệm và sự tận tâm, vì họ trực tiếp liên quan đến sức khỏe và tính mạng của con người. Đây là một nghề cao quý, đòi hỏi nhiều năm học tập và rèn luyện.
+      <li class="tieude">Vì sao chọn ngành bác sĩ?</li>
+           Có nhiều lý do để chọn ngành bác sĩ. Trước hết, đây là nghề giúp cứu chữa người bệnh và mang lại niềm vui, hy vọng cho nhiều người, nên rất ý nghĩa và nhân văn. Thứ hai, ngành bác sĩ cho phép bản thân vận dụng kiến thức khoa học để phục vụ cộng đồng và đóng góp cho xã hội. Ngoài ra, dù vất vả và áp lực, nghề bác sĩ mang lại cảm giác tự hào khi được giúp người khác vượt qua bệnh tật và bảo vệ sức khỏe con người.
+
+        </td>
+      </tr>
+     
+  </body>
+</html>
